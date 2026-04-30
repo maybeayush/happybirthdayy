@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      author: "Prayush",
     },
     {
       type: "stars",
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "May we always be with you! ;)",
     },
     {
       type: "fireworks",
