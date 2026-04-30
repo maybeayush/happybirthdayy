@@ -71,7 +71,7 @@ const CONFIG = {
       type: "chatbox",
       message:
         "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
+      buttonText: "OKAY",
     },
     {
       type: "ideas",
