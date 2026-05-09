@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "I really like your name as my mother's btw!",
     },
     {
       type: "countdown",
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "It's your day to be happy!! :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy mother's day to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "OKAY",
     },
     {
@@ -86,7 +86,16 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
+      text: "You were never meant to hold a child,
+Yet you hold my chaos so gently.
+You scold me when I break apart,
+And love me even more silently.
+So on this Mother’s Day, my love,
+I smile at this beautiful irony —
+You are the baby of my heart,
+Yet the safest home inside me.
+Happy Mother’s Day to the mother of my future,
+And the softest soul of my present🌼💕.",
       author: "Prayush",
     },
     {
@@ -99,8 +108,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May we always be with you! ;)",
+      wishTitle: "Happy mother's day!",
+      wishText: "May the next time i can hug you and wish you in a different way! ;)",
     },
     {
       type: "fireworks",
